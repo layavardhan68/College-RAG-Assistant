@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+faiss_index/
+# D: drive data folder (when using DATA_DRIVE)
+college-rag-data/
+uploads/
+.streamlit/secrets.toml
